@@ -51,7 +51,7 @@ export class ButcherShop extends React.Component {
         [
           React.createElement('p', {}, "Hello! We have the following products for sale today:"),
           React.createElement('ul', {},
-            { products }
+            products
         )
 
         ]
